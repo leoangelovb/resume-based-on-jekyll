@@ -3,4 +3,4 @@ layout: post
 title: Notice to the public
 published: true
 ---
-> Blogs a currenlty being curated.
+> Blogs are currently being curated...
