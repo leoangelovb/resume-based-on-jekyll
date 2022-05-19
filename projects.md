@@ -5,7 +5,7 @@ permalink: /projects/
 published: true
 ---
 ***
-> Projects are currently being created
+> Projects are currently being created...
 
 ### Web Scraping
 
