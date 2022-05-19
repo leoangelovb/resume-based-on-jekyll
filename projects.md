@@ -2,9 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-published: false
+published: true
 ---
 ***
+> Projects are currently being created
 
 ### Web Scraping
 
