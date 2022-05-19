@@ -8,6 +8,8 @@ published: true
 ![career-map.png]({{site.baseurl}}/images/career-map.png)
 
 
-Hi, I am **Leo Angelo Bacolores**. I graduated with a bachelor's degree in Information Technology, specializing in Systems Development. Aside from being a computer programmer, I am interested in Data Analytics and Data Science, Machine Learning, Artificial Intelligence and Business Operations. Currently, I am actively working on a career change toward the Data Analyst role.
+Hi. My name is ****Leo Angelo Bacolores.
+
+I am an aspiring Junior Data Analyst and I wanted to help businesses better understand data to make impactful decisions. I am passionate about technology and business operations which I can leverage to help my clients achieve their goal. What makes me unique is that I am optimistic and always willing to try and learn new things. I am looking for opportunity to apply my skills and knowledge and help bring solutions to data analytics challenges.
 
 Feel free check-out my projects in Github and follow me on LinkedIn.
