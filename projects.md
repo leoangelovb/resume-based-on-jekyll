@@ -19,4 +19,4 @@ published: true
 ### Sentiment analysis
 
 
-### Data Visulization
+### Data Visualization
